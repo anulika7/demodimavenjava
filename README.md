@@ -2,11 +2,10 @@
 Aplikasi dengan bahasa pemograman Java.
 
 Java Responsive Web (Java Server Faces dengan integrasi Primefaces dan Bootstrap)
-Jika ingin mencoba di perangkat anda 
-Pilih folder target dan ambil file dengan ekstensi war
+Jika ingin mencoba di perangkat anda, 
+Pilih folder target dan ambil file disana,
 Pastikan perangkat anda sudah terinstall JDK versi 8
-Dan mengaktifkan Java SE serta Java Web dab EE serta maven java
-Untuk web diperlukan menginstall server glassfish versi 4
-Taruh file di folder web aplication bila menggunakan tomcat versi 8
-Jika menggunakan glassfish carilah folder Aplications dan taruh disana
+dan sudah mengintall Java SE di perangkat anda serta Java EE serta maven java.
+Untuk aplikasi web ini diperlukan menginstall server glassfish versi 4,
+Taruh file di aplikasi server glassfish carilah folder Aplications dan taruh disana,
 Buka browser anda ketikan url berikut ini : http://localhost:8080/Myherokuaja/
