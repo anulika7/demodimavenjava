@@ -1,8 +1,8 @@
 # Maven java dengan glassfish server v.4
-Aplikasi dengan bahasa pemogramana Java.
+Aplikasi dengan bahasa pemograman Java.
 
 Java Responsive Web (Java Server Faces dengan integrasi Primefaces dan Bootstrap)
-Jika ingin mencaoba di perangkat anda 
+Jika ingin mencoba di perangkat anda 
 Pilih folder target dan ambil file dengan ekstensi war
 Pastikan perangkat anda sudah terinstall JDK versi 8
 Dan mengaktifkan Java SE serta Java Web dab EE serta maven java
