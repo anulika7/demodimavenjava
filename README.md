@@ -5,7 +5,7 @@ Java Responsive Web (Java Server Faces dengan integrasi Primefaces dan Bootstrap
 
 Jika ingin mencoba di perangkat anda,
 
-Pilih folder target dan ambil file disana
+Pilih folder target dan ambil file Myherokuaja-1.0-SNAPSHOT.war disana
 
 Pastikan perangkat anda sudah terinstall JDK versi 8
 
